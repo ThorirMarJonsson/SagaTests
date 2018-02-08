@@ -1,79 +1,79 @@
 #Test Case Management
 
 * [Sjúklingar](#Sjúklingar)
-  * [Fyrirmæli læknis](#Fyrirmæli læknis)
-  * [Lyfjakort WPF](#Lyfjakort WPF)
-  * [Biðlistar (WPF)](#Biðlistar (WPF))
+  * [Fyrirmæli læknis](#Fyrirmæli_læknis)
+  * [Lyfjakort WPF](#Lyfjakort_WPF)
+  * [Biðlistar (WPF)](#Biðlistar_(WPF))
   * [Forsíða](#Forsíða)
   * [Heilsuvandar](#Heilsuvandar)
   * [Ónæmisaðgerðir](#Ónæmisaðgerðir)
   * [Yfirsýn](#Yfirsýn)
-  * [ADT – Lotur](#ADT – Lotur)
+  * [ADT – Lotur](#ADT_–_Lotur)
   * [Afgreiðsla](#Afgreiðsla)
   * [Atvikaskráning](#Atvikaskráning)
   * [Biðlisti](#Biðlisti)
-  * [Dagplan deildar](#Dagplan deildar)
+  * [Dagplan deildar](#Dagplan_deildar)
   * [Eyðublöð](#Eyðublöð)
   * [Fjölskylda](#Fjölskylda)
-  * [Forsíða sjúklings](#Forsíða sjúklings)
+  * [Forsíða sjúklings](#Forsíða_sjúklings)
   * [Íhlutir](#Íhlutir)
   * [Legur](#Legur)
   * [Lyfjakort](#Lyfjakort)
   * [Meðferð](#Meðferð)
   * [Mæðraskrá](#Mæðraskrá)
   * [Mælingar](#Mælingar)
-  * [Ný Textasýn](#Ný Textasýn)
-  * [Ónæmisaðgerðir (WPF)](#Ónæmisaðgerðir (WPF))
+  * [Ný Textasýn](#Ný_Textasýn)
+  * [Ónæmisaðgerðir (WPF)](#Ónæmisaðgerðir_(WPF))
   * [Rannsóknir](#Rannsóknir)
   * [Textasýn](#Textasýn)
-  * [Ung- og smábarnavernd](#Ung- og smábarnavernd)
-  * [Vaxtalínurit PcPAL](#Vaxtalínurit PcPAL)
+  * [Ung- og smábarnavernd](#Ung-_og_smábarnavernd)
+  * [Vaxtalínurit PcPAL](#Vaxtalínurit_PcPAL)
   * [Viðhengi](#Viðhengi)
   * [Lyfjagjafaáætlun](#Lyfjagjafaáætlun)
   * [Hreyfistjórnun](#Hreyfistjórnun)
 * [Vefeiningar](#Vefeiningar)
   * [Uppgjör](#Uppgjör)
 * [Starfsmaður](#Starfsmaður)
-  * [Klínísk skráning test container](#Klínísk skráning test container)
-  * [Klínísk skráning prufa](#Klínísk skráning prufa)
-  * [Forsíða starfsmanns](#Forsíða starfsmanns)
+  * [Klínísk skráning test container](#Klínísk_skráning_test_container)
+  * [Klínísk skráning prufa](#Klínísk_skráning_prufa)
+  * [Forsíða starfsmanns](#Forsíða_starfsmanns)
   * [Gagnasýn](#Gagnasýn)
-  * [Mínar stillingar](#Mínar stillingar)
-  * [Pappírssjúkraskrá LSH](#Pappírssjúkraskrá LSH)
-  * [Rafræn eyðublöð](#Rafræn eyðublöð)
+  * [Mínar stillingar](#Mínar_stillingar)
+  * [Pappírssjúkraskrá LSH](#Pappírssjúkraskrá_LSH)
+  * [Rafræn eyðublöð](#Rafræn_eyðublöð)
   * [Reikningsyfilit](#Reikningsyfilit)
   * [Skilaboð](#Skilaboð)
   * [Vera](#Vera)
   * [Vinnulisti](#Vinnulisti)
-  * [Símavakt – Aðstoð](#Símavakt – Aðstoð)
+  * [Símavakt – Aðstoð](#Símavakt_–_Aðstoð)
 * [Úrvinnsla](#Úrvinnsla)
   * [Askja](#Askja)
   * [Skýrslur](#Skýrslur)
 * [Umsjón](#Umsjón)
   * [Eftirlit](#Eftirlit)
-  * [Raðnúmer sjúklinga](#Raðnúmer sjúklinga)
+  * [Raðnúmer sjúklinga](#Raðnúmer_sjúklinga)
   * [Aðföng](#Aðföng)
-  * [Audit Log](#Audit Log)
-  * [Flöggun einstaklinga](#Flöggun einstaklinga)
+  * [Audit Log](#Audit_Log)
+  * [Flöggun einstaklinga](#Flöggun_einstaklinga)
   * [Heimahjúkrunarumsjón](#Heimahjúkrunarumsjón)
   * [Kerfisumsjón](#Kerfisumsjón)
   * [Leguuppfletting](#Leguuppfletting)
   * [Skróparalisti](#Skróparalisti)
   * [Skýrsluumsjón](#Skýrsluumsjón)
   * [Stillingar](#Stillingar)
-  * [Umsjón rannsókna](#Umsjón rannsókna)
-  * [Dýnamísk form](#Dýnamísk form)
+  * [Umsjón rannsókna](#Umsjón_rannsókna)
+  * [Dýnamísk form](#Dýnamísk_form)
 * [Prívat](#Prívat)
   * [Eftirlit](#[Eftirlit])
 * [Úrelt](#Úrelt)
-  * [Rafræn læknabréf](#Rafræn læknabréf)
+  * [Rafræn læknabréf](#Rafræn_læknabréf)
   * [Fyrirspurnir](#Fyrirspurnir)
   * [Hraðskráning](#Hraðskráning)
 
 
 ## Sjúklingar <a name="Sjúklingar" />
 
-### Fyrirmæli læknis <a name="Fyrirmæli læknis" />
+### Fyrirmæli læknis <a name="Fyrirmæli_læknis" />
 
 - Tengiliður:
 - Prófari:
@@ -87,7 +87,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Lyfjakort WPF  <a name="Lyfjakort WPF" />
+### Lyfjakort WPF  <a name="Lyfjakort_WPF" />
 
 - Tengiliður:
 - Prófari:
@@ -101,7 +101,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Biðlistar (WPF)  <a name="Biðlistar (WPF)" />
+### Biðlistar (WPF)  <a name="Biðlistar_(WPF)" />
 
 - Tengiliður:
 - Prófari:
@@ -171,7 +171,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### ADT – Lotur  <a name="ADT – Lotur" />
+### ADT – Lotur  <a name="ADT_–_Lotur" />
 
 - Tengiliður:
 - Prófari:
@@ -227,7 +227,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Dagplan deildar  <a name="Dagplan deildar" />
+### Dagplan deildar  <a name="Dagplan_deildar" />
 
 - Tengiliður:
 - Prófari:
@@ -269,7 +269,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Forsíða sjúklings  <a name="Forsíða sjúklings" />
+### Forsíða sjúklings  <a name="Forsíða_sjúklings" />
 
 - Tengiliður:
 - Prófari:
@@ -367,7 +367,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Ný Textasýn  <a name="Ný Textasýn" />
+### Ný Textasýn  <a name="Ný_Textasýn" />
 
 - Tengiliður:
 - Prófari:
@@ -381,7 +381,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Ónæmisaðgerðir (WPF)  <a name="Ónæmisaðgerðir (WPF)" />
+### Ónæmisaðgerðir (WPF)  <a name="Ónæmisaðgerðir_(WPF)" />
 
 - Tengiliður:
 - Prófari:
@@ -423,7 +423,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Ung- og smábarnavernd  <a name="Ung- og smábarnavernd" />
+### Ung- og smábarnavernd  <a name="Ung-_og_smábarnavernd" />
 
 - Tengiliður:
 - Prófari:
@@ -437,7 +437,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Vaxtalínurit PcPAL  <a name="Vaxtalínurit PcPAL" />
+### Vaxtalínurit PcPAL  <a name="Vaxtalínurit_PcPAL" />
 
 - Tengiliður:
 - Prófari:
@@ -511,7 +511,7 @@
 
 ## Starfsmaður <a name="Starfsmaður" />
 
-### Klínísk skráning test container  <a name="Klínísk skráning test container" />
+### Klínísk skráning test container  <a name="Klínísk_skráning_test_container" />
 
 - Tengiliður:
 - Prófari:
@@ -525,7 +525,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Klínísk skráning prufa  <a name="Klínísk skráning prufa" />
+### Klínísk skráning prufa  <a name="Klínísk_skráning_prufa" />
 
 - Tengiliður:
 - Prófari:
@@ -539,7 +539,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Forsíða starfsmanns  <a name="Forsíða starfsmanns" />
+### Forsíða starfsmanns  <a name="Forsíða_starfsmanns" />
 
 - Tengiliður:
 - Prófari:
@@ -567,7 +567,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Mínar stillingar  <a name="Mínar stillingar" />
+### Mínar stillingar  <a name="Mínar_stillingar" />
 
 - Tengiliður:
 - Prófari:
@@ -581,7 +581,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Pappírssjúkraskrá LSH  <a name="Pappírssjúkraskrá LSH" />
+### Pappírssjúkraskrá LSH  <a name="Pappírssjúkraskrá_LSH" />
 
 - Tengiliður:
 - Prófari:
@@ -595,7 +595,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Rafræn eyðublöð  <a name="Rafræn eyðublöð" />
+### Rafræn eyðublöð  <a name="Rafræn_eyðublöð" />
 
 - Tengiliður:
 - Prófari:
@@ -665,7 +665,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Símavakt – Aðstoð  <a name="Símavakt – Aðstoð" />
+### Símavakt – Aðstoð  <a name="Símavakt_–_Aðstoð" />
 
 - Tengiliður:
 - Prófari:
@@ -725,7 +725,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Raðnúmer sjúklinga  <a name="Raðnúmer sjúklinga" />
+### Raðnúmer sjúklinga  <a name="Raðnúmer_sjúklinga" />
 
 - Tengiliður:
 - Prófari:
@@ -753,7 +753,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Audit Log  <a name="Audit Log" />
+### Audit Log  <a name="Audit_Log" />
 
 - Tengiliður:
 - Prófari:
@@ -767,7 +767,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Flöggun einstaklinga  <a name="Flöggun einstaklinga" />
+### Flöggun einstaklinga  <a name="Flöggun_einstaklinga" />
 
 - Tengiliður:
 - Prófari:
@@ -865,7 +865,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Umsjón rannsókna  <a name="Umsjón rannsókna" />
+### Umsjón rannsókna  <a name="Umsjón_rannsókna" />
 
 - Tengiliður:
 - Prófari:
@@ -879,7 +879,7 @@
 - Síðast prófað:
 - Síðasta pass rate:
 
-### Dýnamísk form  <a name="Dýnamísk form" />
+### Dýnamísk form  <a name="Dýnamísk_form" />
 
 - Tengiliður:
 - Prófari:
@@ -911,7 +911,7 @@
 
 ## Úrelt <a name="Úrelt" />
 
-### Rafræn læknabréf  <a name="Rafræn læknabréf" />
+### Rafræn læknabréf  <a name="Rafræn_læknabréf" />
 
 - Tengiliður:
 - Prófari:
