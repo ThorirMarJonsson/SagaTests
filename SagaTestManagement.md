@@ -341,18 +341,18 @@
 
 ### Mæðraskrá  <a name="Mæðraskrá" />
 
-- Tengiliður: Anna Hafberg
-- Prófari: Þórir Már Jónsson
-- Components: Mæðraskrá, Mæðraskrá (eftir fæðingu), Mæðraskrá (fæðing), Mæðraskrá (meðganga)
-- Requirements: n/a
-- User stories: n/a
-- Handbók: https://www.origo.is/adstod/heilbrigidlausnir/handbaekur/2017.3/Default.htm#Mæðraskrá/Mæðraskrá.htm
-- UI test coverage: Ekki vitað
-- Code coverage: Ekki vitað
-- Non-functional testing: 0
-- Fjöldi prófa: 33
-- Síðast prófað: 23.10.2017
-- Síðasta pass/fail hlutfall 16/3
+- Tengiliður: **Anna Hafberg**
+- Prófari: **Þórir Már Jónsson**
+- Components: **Mæðraskrá, Mæðraskrá (eftir fæðingu), Mæðraskrá (fæðing), Mæðraskrá (meðganga)**
+- Requirements: **n/a**
+- User stories: **n/a**
+- Handbók: **https://www.origo.is/adstod/heilbrigidlausnir/handbaekur/2017.3/Default.htm#Mæðraskrá/Mæðraskrá.htm**
+- UI test coverage: **Ekki vitað**
+- Code coverage: **Ekki vitað**
+- Non-functional testing: **0**
+- Fjöldi prófa: **33**
+- Síðast prófað: **23.10.2017**
+- Síðasta pass/fail hlutfall: **16/3**
 
 ### Mælingar  <a name="Mælingar" />
 
