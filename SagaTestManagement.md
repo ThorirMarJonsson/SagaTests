@@ -1,4 +1,4 @@
-#Test Case Management
+# Test Case Management
 
 * [Sjúklingar](#Sjúklingar)
   * [Fyrirmæli læknis](#Fyrirmæli_læknis)
