@@ -71,9 +71,9 @@
   * [Hraðskráning](#Hraðskráning)
 
 
-## Sjúklingar
+## Sjúklingar <a name="Sjúklingar" />
 
-### Fyrirmæli læknis
+### Fyrirmæli læknis <a name="Fyrirmæli læknis" />
 
 - Tengiliður:
 - Prófari:
